@@ -14,7 +14,7 @@ Keep all records fictional. Do not add real names, trainee codes, contact detail
 2. [02 — Organize the Command Center](Trainee%20Materials/01%20Restore%20the%20Shelter/02%20Organize%20the%20Command%20Center/README.md)
 3. [03 — Count the Supplies](Trainee%20Materials/01%20Restore%20the%20Shelter/03%20Count%20the%20Supplies/README.md)
 
-Read [Working Independently](Trainee%20Materials/01%20Restore%20the%20Shelter/Working%20Independently.md) for setup, debugging, self-checks, and how to continue when a check fails.
+Read [Working Independently](Trainee%20Materials/01%20Restore%20the%20Shelter/Working%20Independently.md) for setup, debugging, and recording technical results.
 
 ## Seven coding packs
 
@@ -36,6 +36,6 @@ The first release contains only **Pack01, Activities01–03**, and this root REA
 - **Use Markdown for technical notes.** Your application itself uses HTML, CSS, JavaScript, JSON, and SQL as each mission requires. No Word documents are used.
 - **Check actual behavior.** Record inputs, expected and actual outcomes, and corrections in the activity’s notes file. Keep required tests passing.
 - **Apply the Git workflow you already know.** Review source changes, commit meaningful work, and push. When a mission uses a PR, self-review and merge it once its checks pass; no outside approval is required.
-- **Continue by evidence.** A completed checklist is your checkpoint. There are no questionnaires, live demonstrations, oral examinations, or required feedback sessions.
+- **Outputs for review.** Commit and push the requested source and technical notes. The instructor will manually check the completed work. There are no questionnaires or required live demonstrations.
 
 Keep the public repository available for later review. No personal-information form or separate identity field is needed. Never copy private solution files into your project.

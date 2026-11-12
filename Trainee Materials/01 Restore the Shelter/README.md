@@ -16,6 +16,6 @@ Read each mission, run its teaching example, complete the task, and compare actu
 
 Record results in Markdown and use the Git workflow you already know. Later missions use self-reviewed pull requests: check your own diff and results, fix issues, then merge. No explanation session, approval, live demonstration, or external response is required to finish a mission.
 
-## Chapter checkpoint
+## Outputs for review
 
-Complete every mission’s checklist, keep all required tests passing, and document your own technical reasoning. If a check fails, correct it and repeat it before moving on. Follow the next published chapter when your own checks pass. Later chapters are released separately; do not invent missing assignment requirements.
+Commit and push the source and technical notes requested by each mission. The instructor will manually review the completed outputs. Keep the required test evidence with your work. Later chapters are released separately; follow the published activity order.

@@ -78,16 +78,6 @@ Use your existing Git workflow to inspect the changed files, stage only the inte
 
 Record the commit or PR link and your checks in `docs/activity-01.md` (create the docs folder if needed). Do not upload personal details or private answer keys. A local commit alone is not on GitHub.
 
-## Completion checklist
-
-- [ ] The required behavior matches every listed acceptance case.
-- [ ] I wrote down actual results, including rejected/empty/boundary cases where specified.
-- [ ] I can explain the important logic in my own technical notes.
-- [ ] I completed the Git checkpoint and verified the pushed source.
-- [ ] I used no AI or human hints, and my project contains only fictional exercise data.
-
-If a check fails, use the [independent working guide](../../01%20Restore%20the%20Shelter/Working%20Independently.md), correct it, and rerun the relevant checks. Advance after your own checklist passes; no sign-off or live demonstration is required.
-
 Reference: [MDN basic HTML syntax](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Basic_HTML_syntax).
 
 Return to the [chapter briefing](../README.md).

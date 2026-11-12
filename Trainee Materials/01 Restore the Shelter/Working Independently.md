@@ -36,8 +36,8 @@ From Activity04 use a new feature branch from clean, updated main. Push it, open
 
 If a branch name is taken, choose a fresh task-only suffix. If an ordinary pull refuses because histories diverged, inspect status and the branch graph before making further changes; preserve your work and follow the [official branching reference](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging). Never use destructive commands as a shortcut to a clean status.
 
-## Self-check and progression
+## Outputs and progression
 
-Complete every required acceptance case, including empty/invalid cases. For function/API/database work, run the automated tests and inspect the results. Compare your own explanations with actual behavior. Correct failures before the next mission. Answer keys are not needed to perform the published checks; they remain private for later evaluation.
+Use the published expected behavior and examples while building. For function/API/database work, run the required automated tests and retain their results. Commit and push your finished source and technical notes; the instructor will manually review your outputs. Answer keys remain private.
 
-There is no instructor sign-off, live review, or feedback dependency. Later packs are released separately; if the next pack is not published, practise variations of completed missions rather than guessing unreleased tasks.
+Complete the work independently. Later packs are released separately; if the next pack is not published, practise variations of completed missions rather than guessing unreleased tasks.

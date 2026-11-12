@@ -4,7 +4,7 @@
 
 **Work:** self-guided, individual, and AI-free. Use fictional exercise data only.
 
-**Start here:** Complete Activity 01 and its self-checks first. Continue the same project.
+**Start here:** Complete Activity 01 first. Continue the same project.
 
 ## Mission briefing
 
@@ -49,16 +49,6 @@ There is no single required color scheme. Check that you can explain contrast, s
 Use your existing Git workflow to inspect the changed files, stage only the intended source/notes, review the staged diff, commit with a useful message, and push to personal `main`.
 
 Record the commit or PR link and your checks in `docs/activity-02.md` (create the docs folder if needed). Do not upload personal details or private answer keys. A local commit alone is not on GitHub.
-
-## Completion checklist
-
-- [ ] The required behavior matches every listed acceptance case.
-- [ ] I wrote down actual results, including rejected/empty/boundary cases where specified.
-- [ ] I can explain the important logic in my own technical notes.
-- [ ] I completed the Git checkpoint and verified the pushed source.
-- [ ] I used no AI or human hints, and my project contains only fictional exercise data.
-
-If a check fails, use the [independent working guide](../../01%20Restore%20the%20Shelter/Working%20Independently.md), correct it, and rerun the relevant checks. Advance after your own checklist passes; no sign-off or live demonstration is required.
 
 References: [CSS box model](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Box_model), [responsive design](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Responsive_Design).
 
