@@ -39,4 +39,3 @@ The first release contains only **Pack01, Activities01–03**, and this root REA
 - **Continue by evidence.** A completed checklist is your checkpoint. There are no questionnaires, live demonstrations, oral examinations, or required feedback sessions.
 
 Keep the public repository available for later review. No personal-information form or separate identity field is needed. Never copy private solution files into your project.
-
