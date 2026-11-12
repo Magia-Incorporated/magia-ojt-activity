@@ -40,4 +40,3 @@ The first release contains only **Pack01, Activities01–03**, and this root REA
 
 Keep the public repository available for later review. No personal-information form or separate identity field is needed. Never copy private solution files into your project.
 
-Story and feature inspiration: [frontend challenge](https://github.com/ramcorp/frontend-test) and [backend challenge](https://github.com/ramcorp/backend-test). This course adapts them into incremental coding missions with explicit exercise rules.
